@@ -1,0 +1,23 @@
+{
+  "name": "Curso-testes-unitarios-com-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulcfr112/Curso-testes-unitarios-com-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulcfr112/Curso-testes-unitarios-com-JS/issues"
+  },
+  "homepage": "https://github.com/raulcfr112/Curso-testes-unitarios-com-JS#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
