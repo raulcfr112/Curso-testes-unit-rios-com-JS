@@ -1,1 +1,1 @@
-# Curso-testes-unitarios-com-JS
+# Curso-testes-unitarios-com-JS [![Build Status](https://app.travis-ci.com/raulcfr112/Curso-testes-unitarios-com-JS.svg?token=mSshjw8ESETvDTkBDgTx&branch=master)](https://app.travis-ci.com/raulcfr112/Curso-testes-unitarios-com-JS)
